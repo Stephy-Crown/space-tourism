@@ -1,4 +1,4 @@
-# Space Tourism: A collaboration between Frontend Mentor, Scrimba, and Kevin Powell
+# Space Tourism: Tutorial on Design System with Kevin Powell
 
 This project is a collaboration between [Frontend Mentor](https://www.frontendmentor.io), [Scrimba](https://scrimba.com), and [Kevin Powell](https://youtube.com/kevinpowell).
 
